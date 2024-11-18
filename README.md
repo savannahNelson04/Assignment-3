@@ -1,1 +1,3 @@
-# Assignment-3<img width="1278" alt="Screenshot 2024-11-17 at 10 15 11 PM" src="https://github.com/user-attachments/assets/91686408-f83d-4a14-9f26-830c036a5075">
+The time complexity for search/insert would be log base 2 (10000) = 13.29. This means, that in the worse case it would take 13.29 steps/comparisons to find or inset an element if the tree is perfectly balanced. Or best case it would be log base 3(10000) = 8.383 comparisons. As this data set is larger, the time complexity for it is most likely larger. 
+In my code a used a RedBlackTree, this data set maintains balance by using a set of rules or color properties to ensure of this. These rules make sure the tree maintains its hight in the rang of x(log n). 
+<img width="1278" alt="Screenshot 2024-11-17 at 10 15 11 PM" src="https://github.com/user-attachments/assets/1e8eea6c-e5b6-4493-b9b7-28b1b2282a6a">
